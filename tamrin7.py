@@ -6,6 +6,6 @@ for i in range(2,n):
 
     formul = fibonacci[i-1]+fibonacci[i-2]
 
-    fib.append(formul)
+    fibonacci.append(formul)
 
 print(fibonacci)
